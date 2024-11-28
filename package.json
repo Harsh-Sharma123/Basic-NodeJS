@@ -10,6 +10,9 @@
   "description": "",
   "dependencies": {
     "cat-me": "^1.0.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "morgan": "^1.10.0",
     "nodemon": "^3.1.7"
   }
 }
